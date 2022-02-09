@@ -1,1 +1,2 @@
-# feb-9
+a=int(input)
+b=int(input)
